@@ -1,0 +1,2 @@
+# blog
+bernie's blog
